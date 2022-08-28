@@ -2,7 +2,9 @@
 
 Instant weather application created using react redux and tailwind
 
-## Available Scripts 'npm install'
+## Available Scripts
+
+###  'npm install'
 
 you need to type npm install in the console to install the required modules
 
